@@ -128,3 +128,22 @@ button:active{
     margin-top: 2px;
 
 }
+
+.rodape{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        padding: 8px;
+}
+
+.assinatura {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    position:absolute;
+    bottom:0;
+    color: var(--light-color);    
+    
+}
+
