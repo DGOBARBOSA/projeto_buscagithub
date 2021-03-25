@@ -143,7 +143,20 @@ button:active{
     margin: 10px;
     position:absolute;
     bottom:0;
-    color: var(--light-color);    
-    
+    color: var(--light-color);
+        
 }
-
+.assinatura a:link {
+    color: turquoise;
+    text-decoration: none;
+  }
+  
+ .assinatura a:visited {
+    color: turquoise;
+    text-decoration: none;
+  }
+  .assinatura a:hover {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+  
