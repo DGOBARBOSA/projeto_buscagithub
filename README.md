@@ -1,6 +1,4 @@
-# projeto_buscagithub
-
-<h2>Projeto busca repositório no Github<h2/>
+# Projeto busca repositório no Github
 
   <h4>Projeto desenvolvido com Html,Css, Javascript, API REST do GitHub, na qual trás as informações do usuário e deploy no hosting do Firebase</h4>
   
