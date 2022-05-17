@@ -1,7 +1,0 @@
-testando as funcionalidades basicas do Git.
-
-
-
-testando 
-
-trabalhar com repositorios Git
